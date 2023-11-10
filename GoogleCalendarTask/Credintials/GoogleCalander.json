@@ -1,0 +1,12 @@
+{
+  "web": {
+    "client_id": "941287792779-vo7jv7gkfhq3l2acv2mjh88r1e45svoe.apps.googleusercontent.com",
+    "project_id": "quantum-engine-404520",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": [ "https://localhost:44368/authorize", "http://localhost/authorize/", "http://127.0.0.1/authorize/" ],
+    "javascript_origins": [ "https://localhost:44368" ]
+  }
+}
